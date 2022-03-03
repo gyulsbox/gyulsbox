@@ -37,11 +37,9 @@ UI/UX 고민을 생활화합니다. <br><br>
   <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />
 </p>
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyulsbox&layout=compact)](https://github.com/gyulsbox/github-readme-stats)
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyulsbox&show_icons=true&theme=dracula)](https://github.com/gyulsbox/github-readme-stats)
+
 
 
 <hr>
