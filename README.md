@@ -19,7 +19,7 @@ UI/UX 고민을 생활화합니다. <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
-    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 </p>
@@ -35,6 +35,7 @@ UI/UX 고민을 생활화합니다. <br><br>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/prisma-262E3E?style=for-the-badge&logo=prisma&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/twilio-FEF5EE?style=for-the-badge&logo=twilio&logoColor=F22F46" />
   <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
