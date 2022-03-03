@@ -56,7 +56,7 @@ UI/UX 고민을 생활화합니다. <br><br>
 <p >
  <h4><a href='https://gyulsbox.github.io/MARS/'>MARS<a></h4>
 
- 2022.02.22 ~ 2022.03.02 
+ 2022.01.19 ~ 2022.01.22 
   
 - React.js 를 활용한 Coin Traker구현
     - React.js & TypeScript를 활용하여 개발 진행
@@ -76,7 +76,7 @@ UI/UX 고민을 생활화합니다. <br><br>
 <p >
   <h4><a href='https://gyulsbox.github.io/portfolio_website/'>Portfolio Website<a></h4>
 
-   2022.02.22 ~ 2022.03.0
+   2021.09.24 ~ 2021.10.06
    
 - 개인 웹사이트
     - HTML, CSS, JS 를 활용하여 개발 진행
