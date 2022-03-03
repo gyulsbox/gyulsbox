@@ -1,7 +1,7 @@
-<h1> Hi there 👋</h1>
-
 <p >
-  I'm Junior Frontend Developer Aloofelicidad 👨🏻‍💻
+ 좋아하는 감독들의 영화 🎬 <br>
+ 그리고 산미있는 커피 ☕️, 기타 🎸를 사랑하는 <br>
+ 주니어 프론트엔트 개발자 임현규입니다.
 </p>
 
 
