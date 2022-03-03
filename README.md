@@ -29,7 +29,7 @@
 
 <h4>🌱  I'm currently learning...</h4>
 <p >
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />
 </p>
