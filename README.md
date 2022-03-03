@@ -43,22 +43,22 @@ UI/UX 고민을 생활화합니다. <br><br>
 
 <h3>🚀  Projects</h3>
 <p >
-<h4>GYULFLIX</h4>
- 🏠(https://gyulsbox.github.io/GYULFLIX/)
- 
+<h4><a href='https://gyulsbox.github.io/GYULFLIX/'>GYULFLIX<a></h4>
+
+2022.02.22 ~ 2022.03.02 
+
 - React.js 를 활용한 나만의 Gyulflix 구현
-2022.02.22 ~ 2022.03.02
     - React.js & TypeScript를 활용하여 개발 진행
     - Recoil을 통한 상태 관리
     - Styled-Components를 통한 CSS-in-JS 구현
     - Framer-Motion을 통한 Animation 구현
 </p>
 <p >
-<h4>MARS</h4>
- 🏠(https://gyulsbox.github.io/MARS/)
- 
+ <h4><a href='https://gyulsbox.github.io/MARS/'>MARS<a></h4>
+
+ 2022.02.22 ~ 2022.03.02 
+  
 - React.js 를 활용한 Coin Traker구현
-2022.02.22 ~ 2022.03.02
     - React.js & TypeScript를 활용하여 개발 진행
     - Recoil을 통한 상태 관리 및 Dark mode 구현
     - Styled-Components를 통한 CSS-in-JS 구현
@@ -66,18 +66,19 @@ UI/UX 고민을 생활화합니다. <br><br>
     - List.js를 통한 실시간 검색 구현
 </p>
 <p >
-<h4>ToyJS</h4>
- 🏠(https://gyulsbox.github.io/ToyJS/)
- 
-- JavaScript 숙달을 위한 미니프로젝트
+ <h4><a href='https://gyulsbox.github.io/ToyJS/'>ToyJS<a></h4>
+  
 2021.11.11 ~ 2022.01.05
+  
+- JavaScript 숙달을 위한 미니프로젝트
+
 </p>
 <p >
-<h4>Portfolio Website</h4>
- 🏠(https://gyulsbox.github.io/portfolio_website/)
- 
+  <h4><a href='https://gyulsbox.github.io/portfolio_website/'>Portfolio Website<a></h4>
+
+   2022.02.22 ~ 2022.03.0
+   
 - 개인 웹사이트
-2022.02.22 ~ 2022.03.0
     - HTML, CSS, JS 를 활용하여 개발 진행
     - 자기소개 및 포트폴리오 전시용
     - 기본적인 기술로만 제작
