@@ -73,6 +73,7 @@
     - Styled-Components를 통한 CSS-in-JS 구현
     - ApexCharts를 활용한 그래프 구현
     - List.js를 통한 실시간 검색 구현
+    - 반응형 웹사이트
 </p>
 <p >
  <h4><a href='https://gyulsbox.github.io/ToyJS/'>ToyJS<a></h4>
@@ -91,6 +92,7 @@
     - HTML, CSS, JS 를 활용하여 개발 진행
     - 자기소개 및 포트폴리오 전시용
     - 기본적인 기술로만 제작
+    - 반응형 웹사이트
 </p>
 
 <hr>
