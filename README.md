@@ -15,7 +15,7 @@ developer focused on creating seamless user experiences. Passionate about modern
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-## 🌟 Projects
+## 🌟 Products
 
 ### Blissly
 A seamless productivity app that enhances your daily workflow.
