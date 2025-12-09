@@ -35,20 +35,6 @@ Building production-ready applications with a **business-first mindset**. I brid
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 💼 Experience
-
-**🚀 [CyberAgent Inc.](https://www.cyberagent.co.jp/)** • *Tokyo, Japan* • `2026.04 ~`  
-Frontend Engineer (Incoming)
-
-**🌐 Independent Engineer** • *Seoul → Bangkok → Tokyo* • `2025.02 ~ `  
-Fullstack Enginner | Product Manager
-
-**🎯 [t'order Inc.](https://www.torder.com/)** • *Seoul, Korea* • `2022.08 ~ 2025.01`  
-Frontend Engineer | Product Manager
-
-**⚡ [TPCInternet Inc.](https://likey.me/)** • *Seoul, Korea* • `2022.04 ~ 2022.06`  
-Frontend Engineer
-
 ## 🎯 Core Approach
 - **Domain-Driven Design** for sustainable architecture
 - **Performance-first** development mindset  
